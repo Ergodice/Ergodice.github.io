@@ -20,11 +20,14 @@ I stopped taking undergraduate math classes my second year since while their mat
 
 | Fall   | Winter    | Spring | Summer Session 1 | Summer Session 2 |
 |---| ---| ---| ---| ---| 
-|WCWP 10A <br> COGS 1 <br> COGS 14B <br> COGS 17 | COGS 101B <br> MATH 120A <br> MATH 140A <br> MATH 190A    | MATH 102 <br> MATH 120B <br> MATH 140B <br> MATH 155A | PHIL 1 <br> PHIL 13 <br> PHIL 32|COGS 177  <br> COGS 186  <br> PHIL 132 <br> WCWP 10B |
+|WCWP 10A <br> COGS 1 <br> COGS 14B <br> COGS 17 | COGS 101B <br> MATH 120A <br> MATH 20C <br> MATH 20E <br> MATH 109 <br> MATH 140A <br> MATH 190A    | MATH 102 <br> MATH 120B <br> MATH 140B <br> MATH 155A | PHIL 1 <br> PHIL 13 <br> PHIL 32|COGS 177  <br> COGS 186  <br> PHIL 132 <br> WCWP 10B |
 
 I had originally intended to be a cognitive science major but decided that it wasn't for me. Things worked out well in the end since the cognitive science courses I took can be used to satisfy graduation requirements, as can the philosophy courses. I have copied the course descriptions for your convenience.
 
+MATH 20C. Multivariable Calculus <br>
+MATH 20E. Vector Calculus <br>
 MATH 102. Applied Linear Algebra <br>
+MATH 109. Mathematical Reasoning <br>
 MATH 120A-B. Elements of Complex Analysis <br>
 MATH 140A-B. Foundations of Real Analysis I-II <br>
 MATH 155A. Geometric Computer Graphics <br>
